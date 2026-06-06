@@ -42,6 +42,14 @@ public class ArrayListDemo {
         for (String c : Bhasa2) {
             System.out.println(c);
         }
+        // Mathos used in ArrayList
+        // add() Add element
+        // get() Access element
+        // set() Update element
+        // remove() Delete element
+        // size() Number of elements
+        // clear() Remove all elements
+        // contains() Check element exists
 
     }
 }
