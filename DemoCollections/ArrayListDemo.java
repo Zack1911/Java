@@ -7,7 +7,7 @@ public class ArrayListDemo {
     public static void main(String[] args) {
         ArrayList<String> Bhasa = new ArrayList<>();
         ArrayList<Integer> Bhasa1 = new ArrayList<>(20);
-        ArrayList<String> Bhasa3 = new ArrayList<>();
+        // ArrayList<String> Bhasa3 = new ArrayList<>();
 
         Bhasa.add("Hindi");
         Bhasa.add("English");
