@@ -15,13 +15,19 @@ public class ArrayListDemo {
         Bhasa.add("Mahgayi");
         Bhasa.add("Bhojpuri");
 
-        for(String a : Bhasa){
+        for (String a : Bhasa) {
             System.out.println(a);
         }
 
+        Bhasa1.add("121");
+        Bhasa1.add("321");
+        Bhasa1.add("332");
+        Bhasa1.add("33423");
+        Bhasa1.add("33123");
 
-        
+        for (String b : Bhasa1) {
+            System.out.println(b);
+        }
 
-        
     }
 }
